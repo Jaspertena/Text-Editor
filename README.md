@@ -4,10 +4,10 @@
 # Resources
 - [Express package](https://www.npmjs.com/package/express)
 - [Mongoosepackage](https://www.npmjs.com/package/mongoose)
-- [Heroku] (https://texteditorsjs.herokuapp.com)
+- [Heroku](https://texteditorsjs.herokuapp.com)
 
 # Site Link 
-[JATE] (https://texteditorsjs.herokuapp.com)
+[JATE](https://texteditorsjs.herokuapp.com)
 
 <br>
 
