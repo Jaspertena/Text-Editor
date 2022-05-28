@@ -3,7 +3,7 @@
 
 # Resources
 - [Express package](https://www.npmjs.com/package/express)
-- [Mongoosepackage](https://www.npmjs.com/package/mongoose)
+- [Mongoose package](https://www.npmjs.com/package/mongoose)
 - [Heroku](https://texteditorsjs.herokuapp.com)
 
 # Site Link 
